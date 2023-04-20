@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dF+stbBzFvyTMtB//HfgjY+rGLakXBbqMaF3eYbvoJRcr6WewiSTYFHz7frlNmAu7QnhFzdATiZx6g0OD/OTAw==",
+  "dgSpecHash": "C2AAjoFn6I00Skj7slpstj23FLcjwSLYuR5IoE5rsRTPEQBDKcqxpfn+R3g5ShGK4657aE9e1auH9WIiXy0sIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\samue\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Api\\ProjetoFinanceiro.Api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\samue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\samue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\samue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
