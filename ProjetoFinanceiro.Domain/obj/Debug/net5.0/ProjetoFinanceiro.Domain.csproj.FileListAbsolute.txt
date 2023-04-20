@@ -1,0 +1,12 @@
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\net5.0\ProjetoFinanceiro.Domain.deps.json
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\net5.0\ProjetoFinanceiro.Domain.dll
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\bin\Debug\net5.0\ProjetoFinanceiro.Domain.pdb
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ProjetoFinanceiro.Domain.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ProjetoFinanceiro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ProjetoFinanceiro.Domain.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ProjetoFinanceiro.Domain.AssemblyInfo.cs
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ProjetoFinanceiro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ProjetoFinanceiro.Domain.dll
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\refint\ProjetoFinanceiro.Domain.dll
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ProjetoFinanceiro.Domain.pdb
+C:\Users\samue\source\repos\ProjetoFinanceiro\ProjetoFinanceiro.Domain\obj\Debug\net5.0\ref\ProjetoFinanceiro.Domain.dll
