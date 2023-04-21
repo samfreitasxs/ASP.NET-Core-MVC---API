@@ -1,4 +1,5 @@
 ﻿using ProjetoFinanceiro.Domain.Dtos;
+using System.Collections.Generic;
 
 namespace ProjetoFinanceiro.Domain.Entities
 {
@@ -15,6 +16,19 @@ namespace ProjetoFinanceiro.Domain.Entities
                 Name = this.Name,
                 Cpf = this.Cpf
             };
+        }
+
+        public static List<ClienteDto> ConverterParaDto(List<Cliente> clientes)
+        {
+            List<ClienteDto> clientesDto = new List<ClienteDto>();
+
+            foreach (Cliente cliente in clientes)
+            {
+                ClienteDto dto = cliente.ConverterParaDto();
+                clientesDto.Add(dto);
+            }
+
+            return clientesDto;
         }
     }
 }
